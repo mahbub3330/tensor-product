@@ -10,6 +10,6 @@ It takes two matrix and provide their tensor product outcome.
 
 
 ## Output
-* **Click to see the output** -[pictures](https://github.com/mahbub3330/distributed_hash_generator/tree/main/screen-shot/output1](https://github.com/mahbub3330/tensor-product/tree/main/output)
+* **Click to see the output** -[pictures](https://github.com/mahbub3330/tensor-product/tree/main/output)
 * **
 
